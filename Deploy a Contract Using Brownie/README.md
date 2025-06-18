@@ -20,6 +20,7 @@
 5. Change directory to the root folder i.e. /Deploy a Contract Using Brownie and run deploy i.e.
 
    > cd "Deploy a Contract Using Brownie"
+   > 
    > brownie run scripts/deploy_contract.py
 
    ![alt text](image-1.png)
@@ -31,6 +32,7 @@ Or
 6. (if neccessary)- Initialise a new brownie project via brownie init
 
    > cd root_brownie_project_folder
+   > 
    > brownie init
 
    from here follow the necessary procedures i.e up step 1 -
