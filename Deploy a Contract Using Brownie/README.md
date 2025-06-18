@@ -21,7 +21,7 @@
 
    > cd "Deploy a Contract Using Brownie"
    > 
-   > brownie run scripts/deploy_contract.py
+   > brownie run scripts/deploy_contract.py --network sepolia
 
    ![alt text](image-1.png)
 
